@@ -2,7 +2,6 @@
 
 <h1 align="center">Flutter Developer Roadmap 2025</h1>
 
-
 The Flutter Developer Roadmap 2025 includes **Practical exercises** that cover all the essential concepts used in day-to-day development.
 # Guidelines
 
@@ -488,10 +487,6 @@ Create an application, Conatact Keeper to allow users to add contacts.
 
 
 
-    
-
-## Learning
-#Latest app search (STREAM)
 
 
 
