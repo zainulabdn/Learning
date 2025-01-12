@@ -486,6 +486,9 @@ Create an application, Conatact Keeper to allow users to add contacts.
 * Use `rx_dart` for state management.
 * Write Unit test.
 
+### Practical 28
+#### Create a chat bot
+
 
 
 
