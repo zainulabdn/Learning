@@ -488,6 +488,10 @@ Create an application, Conatact Keeper to allow users to add contacts.
 
 ### Practical 28
 #### Create a chat bot
+#### Using Gemini API free version
+
+
+####
 #### CTRL+R in VS (WRAP widget detail)
 
 
