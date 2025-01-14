@@ -491,8 +491,10 @@ Create an application, Conatact Keeper to allow users to add contacts.
 #### Using Gemini API free version
 
 
-####
-#### CTRL+R in VS (WRAP widget detail)
+#### FOR Learning VS 
+#### CTRL+R (WRAP widget detail)
+#### CTRL+SHIFT+P (Options to manage things)
+
 
 
 
