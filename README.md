@@ -488,6 +488,7 @@ Create an application, Conatact Keeper to allow users to add contacts.
 
 ### Practical 28
 #### Create a chat bot
+#### CTRL+R in VS (WRAP widget detail)
 
 
 
