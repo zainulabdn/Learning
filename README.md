@@ -492,8 +492,8 @@ Create an application, Conatact Keeper to allow users to add contacts.
 
 
 #### FOR Learning VS 
-#### CTRL+R (WRAP widget detail)
-#### CTRL+SHIFT+P (Options to manage things)
+- CTRL+R (WRAP widget detail)
+- CTRL+SHIFT+P (Options to manage things)
 
 
 
