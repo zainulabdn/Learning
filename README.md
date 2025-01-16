@@ -116,7 +116,7 @@ Create an application where users can preview the camera feed, capture images, a
   - Add a button to go back to the camera screen.
 
 
-### Practical 7
+### Practical 7:
 #### Implement Navigation for a Messaging application
 Create a messaging application with onboard, sign-in, and home screens.
 * Onboard Screen:
@@ -135,7 +135,7 @@ Create a messaging application with onboard, sign-in, and home screens.
 * Here's [UI for reference](https://cdn4.vectorstock.com/i/1000x1000/55/68/chat-message-app-ui-kit-design-vector-34385568.jpg).
 
 
-### Practical 8
+### Practical 8:
 #### Implement Color Pallate App for the web.
 Develop an application with two tabs using Bottom Navigation: Home and Palette. 
 * Home Screen:
@@ -156,7 +156,7 @@ Develop an application with two tabs using Bottom Navigation: Home and Palette.
 
 # Networking 
 
-### Practical 9
+### Practical 9:
 #### Implement OnlineUserDirectory
 Create an application with two screens: Home screen and Detail screen
 * Home Screen:
