@@ -73,7 +73,7 @@ If you already have knowledge and experience in Flutter development, you may not
 * Use eye-catching images or placeholders for the news content.
 * Here's [UI for reference](https://cubicleninjas.com/wp-content/uploads/2021/01/NA-2021-Web-Questionnaire-3.jpg)
 
-### Practical 4
+### Practical 4:
 #### Fitness Journal
 * Develop an app for users to track their fitness activities.
 * Use TextFields to allow users to input the details for their workout type(e.g., running, cycling, etc), duration, date, and notes.
@@ -83,7 +83,7 @@ If you already have knowledge and experience in Flutter development, you may not
 
 # Navigation and Routing
 
-### Practical 5
+### Practical 5:
 #### Implement LeaveTracker App 
 Create a LeaveTracker application with two screens—Home and Apply-Leave.
 * Home Screen:
