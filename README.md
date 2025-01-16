@@ -37,13 +37,13 @@ If you already have knowledge and experience in Flutter development, you may not
 
 # Material Component
 
-### Practical 1
+### Practical 1:
 #### Design a fitness app
 * Create a Flutter application and Design [Static UI](https://dribbble.com/shots/21236904-Fitness-App-Design).
 * Ensure the app's UI is responsive and adapts smoothly to different screen sizes and resolutions.
 * Use Flutter's Materials Design 3 to enhance your design process.
 
-### Practical 2
+### Practical 2:
 #### Develop a News application
 * Home Screen Layout:
   - The home screen should include a toolbar, a floating button, and a section to display news content.
@@ -58,7 +58,7 @@ If you already have knowledge and experience in Flutter development, you may not
 * Use eye-catching images or placeholders for the news content.
 * Here's [UI for reference](https://cdn.dribbble.com/users/663782/screenshots/3742414/media/67464fde751beb373b4c6fa962edf718.gif).
 
-### Practical 3
+### Practical 3:
 #### Implement Survey application
 * Home Screen Layout:
   - Display a survey form with the following elements:
