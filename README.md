@@ -488,6 +488,17 @@ Create an application, Conatact Keeper to allow users to add contacts.
 #### Create a chat bot
 #### Using Gemini API free version
 
+### Practical 29
+## SOLID Principles
+
+- S - Single Responsibility (It's very simple this is why didn't write any example for it)
+- O - [Open/Close](/solid_principles/open_close.dart)
+- L - [Liskov Substitute](/solid_principles/liskov_substitute.dart)
+- I - [Interface segregation](/solid_principles/interface_segregation.dart)
+- D - [Dependency Inversion](/solid_principles/dependency_inversion.dart)
+
+These are set of principles that are widely applicable in OOP. Since, flutter is powered with dart so it means these can play very vital role in writing efficient code, maintaining and keeping the code clean
+
 
 #### FOR Learning VS 
 - CTRL+R (WRAP widget detail)
