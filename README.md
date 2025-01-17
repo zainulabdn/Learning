@@ -504,7 +504,7 @@ Not going to write them in depth, you can use google/GPT. I've mentioned few key
 ### Abstract vs Interface
 #### 📝 Other Languages
 - `abstract` keyword is use to define classes for which you need to write abstract methods and to avail partial data hiding concept.'
-
+- `interface` keyword is use to achieve complete data hiding concept, and you cannot have any concrete method or implementation in interface.
 
 #### FOR Learning VS 
 - CTRL+R (WRAP widget detail)
