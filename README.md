@@ -501,6 +501,10 @@ These are set of principles that are widely applicable in OOP. Since, flutter is
 
 ## 🔑 Key Points
 Not going to write them in depth, you can use google/GPT. I've mentioned few key points that causes few confusion when it comes to dart specifically.
+### Abstract vs Interface
+#### 📝 Other Languages
+- `abstract` keyword is use to define classes for which you need to write abstract methods and to avail partial data hiding concept.'
+
 
 #### FOR Learning VS 
 - CTRL+R (WRAP widget detail)
