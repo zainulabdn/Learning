@@ -485,10 +485,28 @@ Create an application, Conatact Keeper to allow users to add contacts.
 * Write Unit test.
 
 ### Practical 28
+#### Create a Contact Keeper application.
+Create an application, Conatact Keeper to allow users to add contacts.
+* Home Screen:
+  - Show all contacts with name, phone number, and profile.
+  - On clicking a contact, show the contact profile.
+  - Options to update and delete contact details.
+  - Swipe to delete a contact.
+  - Option to add a contact with name, multiple phone numbers, profile image, blood group, and address.
+* Contact Detail Screen:
+  - Show and edit contact details
+  - Option to delete a contact.
+* Fetch all contacts from the user's device and store them in Firestore.
+* The app should also update contacts in real-time, so changes made by one user are reflected across all devices.
+* Use `rx_dart` for state management.
+* Write Unit test.
+
+
+### Practical 29
 #### Create a chat bot
 #### Using Gemini API free version
 
-### Practical 29
+### Practical 30
 ## SOLID Principles
 
 - S - Single Responsibility (It's very simple this is why didn't write any example for it)
