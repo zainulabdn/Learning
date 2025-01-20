@@ -484,7 +484,7 @@ Create an application, Conatact Keeper to allow users to add contacts.
 * Use `rx_dart` for state management.
 * Write Unit test.
 
-#### Practical 28
+### Practical 28
 #### Create a Contact Keeper application.
 Create an application, Conatact Keeper to allow users to add contacts.
 * Home Screen:
@@ -502,7 +502,7 @@ Create an application, Conatact Keeper to allow users to add contacts.
 * Write Unit test.
 
 
-### Practical 29
+## Practical 29
 #### Create a chat bot
 #### Using Gemini API free version
 
