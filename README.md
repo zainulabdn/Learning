@@ -9,7 +9,7 @@
 - As you progress through the practical exercises, make sure to apply the new knowledge you've gained in subsequent exercises. Try to allocate a maximum 5 days to each practical.
 
 
-# Table of contents
+# Table of contents:
 * [Useful References](https://github.com/canopas/flutter-developer-roadmap-2023/blob/main/README.md#useful-references)
 * [Material Component](https://github.com/canopas/flutter-developer-roadmap-2023/blob/main/README.md#material-component)
 * [Navigation and Routing](https://github.com/canopas/flutter-developer-roadmap-2023/blob/main/README.md#navigation-and-routing)
