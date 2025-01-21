@@ -517,7 +517,7 @@ Create an application, Conatact Keeper to allow users to add contacts.
 
 These are set of principles that are widely applicable in OOP. Since, flutter is powered with dart so it means these can play very vital role in writing efficient code, maintaining and keeping the code clean
 
-## 🔑 Key Points
+## 🔑 Key Points::
 Not going to write them in depth, you can use google/GPT. I've mentioned few key points that causes few confusion when it comes to dart specifically.
 ### Abstract vs Interface
 #### 📝 Other Languages
