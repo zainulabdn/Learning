@@ -546,6 +546,19 @@ abstract class DartClass {
   void conreteMethod() {}
 }
 
+// implements, it means we have to provide concrete implementation of
+/// [abstractMethod] and [conreteMethod]
+class DartClassImplements implements DartClass {
+  @override
+  void abstractMethod() {
+    print('Concrete method');
+  }
+
+  @override
+  void conreteMethod() {
+    print('Another concrete method');
+  }
+}
 
 #### FOR Learning VS 
 - CTRL+R (WRAP widget detail)
