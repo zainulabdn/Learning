@@ -532,7 +532,19 @@ abstract class MyClass {
     void anotherFunc() {}
 }
 
+### 👀 `extends` vs `implements`
+Both of these works the same as in other languages i.e.
+- `extends` the child class doesn't have to provide concrete implementation of each method from parent class.
+    - Generally used for extensions via `abstract class`
+- `implements` the child class should provide concrete implementation of each method from parent class.
+    - Generally used for extensions via `interface` or in case of dart, `implements` can be used for an `abstract class` considering that it's playing the role of `interface`
 
+In dart terms, an `abstract` can be `extends` or `implements`:
+```dart
+abstract class DartClass {
+  void abstractMethod();
+  void conreteMethod() {}
+}
 
 
 #### FOR Learning VS 
