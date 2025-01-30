@@ -559,7 +559,10 @@ class DartClassImplements implements DartClass {
     print('Another concrete method');
   }
 }
+
+
 #### DeepSheek AI
+- Chat GPT target
 
 #### FOR Learning VS 
 - CTRL+R (WRAP widget detail)
