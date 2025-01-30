@@ -1,7 +1,7 @@
 
 <h1 align="center">Flutter & Dart Developer Roadmap 2025 </h1>
 
-- The Flutter Developer Roadmap 2025 includes **Practical exercises** that cover all the essential concepts used in day-to-day development.
+- The Flutter Developer Roadmap 2025 includes **Practical Exercises** that cover all the essential concepts used in day-to-day development.
 
 # Guidelines:
 
