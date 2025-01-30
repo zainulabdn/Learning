@@ -564,6 +564,7 @@ class DartClassImplements implements DartClass {
 #### DeepSheek AI
 - Chat GPT target
 - working with low budget
+- better experience then GPT
 
 #### FOR Learning VS 
 - CTRL+R (WRAP widget detail)
