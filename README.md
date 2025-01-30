@@ -37,6 +37,7 @@ If you already have knowledge and experience in Flutter development, you may not
 
 # Material Component
 
+
 ### Practical 1:
 #### Design a fitness app
 * Create a Flutter application and Design [Static UI](https://dribbble.com/shots/21236904-Fitness-App-Design).
@@ -57,6 +58,7 @@ If you already have knowledge and experience in Flutter development, you may not
     - The button should animate as the user scrolls down and up.
 * Use eye-catching images or placeholders for the news content.
 * Here's [UI for reference](https://cdn.dribbble.com/users/663782/screenshots/3742414/media/67464fde751beb373b4c6fa962edf718.gif).
+
 
 ### Practical 3:
 #### Implement Survey application
