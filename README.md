@@ -5,7 +5,7 @@
 - The Flutter Developer Roadmap 2025 includes **Practical Exercises** that cover all the essential concepts used in day-to-day development.
 
 # Guidelines:
-
+=
 - Before starting any practical it's important to conduct research and learn the necessary concepts.
 - As you progress through the practical exercises, make sure to apply the new knowledge you've gained in subsequent exercises. Try to allocate a maximum 5 days to each practical.
 
