@@ -570,7 +570,9 @@ class DartClassImplements implements DartClass {
 - Chat GPT target
 - working with low budget
 - better experience then GPT
-### Firebase Storage
+
+### Firebase Cloud Storage 
+
 #### FOR Learning VS 
 - CTRL+R (WRAP widget detail)
 - CTRL+SHIFT+P (Options to manage things)
