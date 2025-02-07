@@ -9,7 +9,7 @@
 # Guidelines:
 
 - Before starting any practical it's important to conduct research and learn the necessary concepts.
-- As you progress through the practical exercises, make sure to apply the new knowledge you've gained in subsequent exercises. Try to allocate a maximum 6 days to each practical.
+- As you progress through the practical exercises, make sure to apply the new knowledge you've gained in subsequent exercises. Try to allocate a maximum 5 days to each practical.
 
 
 
