@@ -80,7 +80,6 @@ If you already have knowledge and experience in Flutter development, you may not
 * Here's [UI for reference](https://cubicleninjas.com/wp-content/uploads/2021/01/NA-2021-Web-Questionnaire-3.jpg)
 
 
-###
 ### Practical 4:
 #### Fitness Journal
 * Develop an app for users to track their fitness activities.
