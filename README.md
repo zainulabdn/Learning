@@ -79,7 +79,7 @@ If you already have knowledge and experience in Flutter development, you may not
 * Use eye-catching images or placeholders for the news content.
 * Here's [UI for reference](https://cubicleninjas.com/wp-content/uploads/2021/01/NA-2021-Web-Questionnaire-3.jpg)
 
-##
+#
 
 ### Practical 4:
 #### Fitness Journal
