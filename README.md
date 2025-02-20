@@ -512,6 +512,7 @@ Create an application, Conatact Keeper to allow users to add contacts.
 ## Practical 29
 #### Create a chat bot
 #### Using Gemini API free version
+#### 
 
 ### Practical 30
 ## SOLID Principles
