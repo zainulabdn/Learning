@@ -583,7 +583,8 @@ class DartClassImplements implements DartClass {
 
 🥤 Mix use of abstract and interface
 
-Consider an example below:
+## Consider an example below:
+
 abstract interface class DartClass {
   void abstractMethod();
   void concreteMethod() {}
