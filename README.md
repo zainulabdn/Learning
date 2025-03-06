@@ -581,7 +581,13 @@ class DartClassImplements implements DartClass {
 - CTRL+SHIFT+P (Options to manage things)
 
 
+🥤 Mix use of abstract and interface
 
+Consider an example below:
+abstract interface class DartClass {
+  void abstractMethod();
+  void concreteMethod() {}
+}
 
 
 
