@@ -591,6 +591,14 @@ abstract interface class DartClass {
 }
 
 
+Dart allows this because it offers flexibility in how you define and use abstract classes and interfaces.
+
+abstract Keyword: Indicates that DartClass cannot be instantiated directly. It serves as a blueprint for other classes.
+interface Keyword: Explicitly marks DartClass as an interface, further emphasizing its role as a contract.
+Method Definitions:
+void concreteMethod();: A purely abstract method. Implementing classes must provide the implementation.
+void anotherConcrete() {}: An abstract method with an empty body. While it has a body, it still needs to be overridden in implementing classes because of the interface and abstract keywords.
+
 
 
 
