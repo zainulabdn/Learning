@@ -62,7 +62,6 @@ If you already have knowledge and experience in Flutter development, you may not
 * Use eye-catching images or placeholders for the news content.
 * Here's [UI for reference](https://cdn.dribbble.com/users/663782/screenshots/3742414/media/67464fde751beb373b4c6fa962edf718.gif).
 
-
 ### Practical 3:
 #### Implement Survey application
 * Home Screen Layout:
